@@ -1,4 +1,4 @@
-7222
+7221
 97C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\transformer-image\package.json133499832647938551 0
 61C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\bl133499843149749255 1
 75C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sass\types\value133499838611071715 1
@@ -9,7 +9,7 @@
 99C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\json-parse-even-better-errors\LICENSE.md133499832620753113 0
 119C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@swc\helpers\cjs\_class_static_private_field_destructure.cjs133499832709447071 0
 68C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@swc\core133499832683637800 1
-56C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\src\images133499922675471758 1
+56C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\src\images133499937034011340 1
 103C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\css-tree\cjs\syntax\node\GeneralEnclosed.cjs133499832729396314 0
 128C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property\font.js133499832712652555 0
 92C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\reporter-cli\src\emoji.js133499832658330294 0
@@ -21,7 +21,7 @@
 113C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\caniuse-lite\data\features\mdn-text-decoration-line.js133499832973240176 0
 92C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\svgo\plugins\removeUselessDefs.js133499832790455113 0
 127C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\convertor\create.js133499832687635792 0
-58C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\package.json133499843264303541 0
+58C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\package.json133499931314721281 0
 108C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\aom\aomcx.h133117882010000000 0
 108C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@swc\helpers\src\_possible_constructor_return.mjs133499832914836961 0
 95C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\css-tree\lib\syntax\scope\default.js133499832877400190 0
@@ -60,7 +60,7 @@
 79C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\weak-lru-cache\tests133499832636128823 1
 83C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\abortcontroller-polyfill133499832667200549 1
 107C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\css-select\node_modules\domhandler\lib\node.d.ts133499832678440389 0
-50C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist133499923855326634 1
+50C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist133499943441979671 1
 89C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\semver\internal\identifiers.js133499832677691775 0
 94C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\source-map\dist\source-map.debug.js133499832687645893 0
 76C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\svgo\lib\style.js133499832687605738 0
@@ -94,7 +94,7 @@
 49C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\src133499838472495110 1
 68C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\callsites133499832628808444 1
 84C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\domutils\lib\helpers.d.ts133499832685233993 0
-60C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\src\index.html133499923767955685 0
+60C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\src\index.html133499937296702786 0
 90C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\immutable\dist\immutable.min.js133499838608662561 0
 57C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\src\scripts133499834962405326 1
 100C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\csso\node_modules\css-tree\lib\version.js133499832896147822 0
@@ -113,10 +113,10 @@
 112C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\csso\node_modules\css-tree\lib\lexer\generic-const.js133499832878352601 0
 90C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\caniuse-lite\data\regions\AM.js133499832697048502 0
 107C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\runtime-js\lib\helpers\get-worker-url.js133499832678946716 0
-66C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\src\styles\main.scss133499904688972272 0
+66C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\src\styles\main.scss133499943438311645 0
 105C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz133117882010000000 1
 80C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\posthtml\lib\index.js133499832616737262 0
-68C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\src\styles\_event.scss133499930463192101 0
+68C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\src\styles\_event.scss133499942797838343 0
 67C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\has-flag133499832625648468 1
 135C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pango-version-macros.h133117882010000000 0
 120C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\csso\node_modules\css-tree\cjs\syntax\scope\atrulePrelude.cjs133499832648456006 0
@@ -138,7 +138,7 @@
 77C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\lmdb\dict\dict.txt133499832863544133 0
 127C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gobject\gvaluetypes.h133117882010000000 0
 75C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\srcset\readme.md133499832620835792 0
-67C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\src\styles\_hero.scss133499921451218950 0
+67C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\src\styles\_hero.scss133499936015959242 0
 102C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\caniuse-lite\data\features\readonly-attr.js133499832978733926 0
 79C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\electron-to-chromium133499832670346473 1
 82C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\types\unsafe.js133499832630525309 0
@@ -154,14 +154,6 @@
 72C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\src\styles\_variables.scss133499929519747953 0
 76C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\base-x\LICENSE.md133499832617677192 0
 110C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133499832726425914 0
-105C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\css-select\node_modules\entities\lib\generated133499832747543344 1
-90C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sass\types\legacy\importer.d.ts133499838610004568 0
-131C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertTransform.js133499832691738056 0
-78C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\weak-lru-cache\dist133499832590182908 1
-85C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\nullthrows\nullthrows.d.ts133499832615149942 0
-126C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftrender.h133117882010000000 0
-77C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\src\images\bolo_aniversário.jpg133499922676981649 0
-94C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\htmlnano\lib\modules\minifyJson.mjs133499832802228994 0
 65C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\src\images\bolo.jpg133499912394240633 0
 63C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\.bin133499843162697661 1
 77C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\.package-lock.json133499843270831235 0
@@ -414,7 +406,7 @@
 70C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\htmlparser2133499832661048263 1
 104C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\dom-serializer\node_modules\entities\lib\maps133499832656216934 1
 70C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\timsort\src133499832647235184 1
-70C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\styles\main.css.map133499930464419372 0
+70C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\styles\main.css.map133499943441949751 0
 112C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\caniuse-lite\data\features\background-position-x-y.js133499832742948535 0
 123C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\orc-0.4\orc\orcbytecodes.h133117882010000000 0
 124C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\api\inheritance.json133499832661480078 0
@@ -652,7 +644,7 @@
 84C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\prebuild-install\index.js133499843148181413 0
 73C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\string_decoder133499843145774492 1
 63C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\pump133499843148311598 1
-72C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\index.f75de5e1.js.map133499923855276760 0
+72C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\index.f75de5e1.js.map133499943441959726 0
 75C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\mdn-data\LICENSE133499832588050268 0
 127C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pangofc-font.h133117882010000000 0
 90C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\caniuse-lite\data\regions\CG.js133499832810037207 0
@@ -814,6 +806,10 @@
 90C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\css-tree\lib\convertor\index.js133499832884737837 0
 75C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\wrappy\README.md133499843143034685 0
 75C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\wrappy\wrappy.js133499843145764524 0
+105C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\css-select\node_modules\entities\lib\generated133499832747543344 1
+90C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sass\types\legacy\importer.d.ts133499838610004568 0
+131C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertTransform.js133499832691738056 0
+78C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\weak-lru-cache\dist133499832590182908 1
 78C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\workers\src133499832731735817 1
 82C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\weak-lru-cache\index.js133499832618464696 0
 113C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\csso\node_modules\css-tree\lib\syntax\node\Selector.js133499832893384140 0
@@ -1686,6 +1682,10 @@
 78C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3133499843170406529 1
 78C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\dotenv\CHANGELOG.md133499832599037601 0
 133C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\config\ftconfig.h133117882010000000 0
+107C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js133499832694038248 0
+90C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sass\types\legacy\function.d.ts133499838609944683 0
+102C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\css-tree\cjs\syntax\node\MediaQueryList.cjs133499832789850952 0
+124C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gcontenttype.h133117882010000000 0
 88C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64133499843253516017 1
 96C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include133499843242003453 1
 119C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib-object.h133117882010000000 0
@@ -2494,10 +2494,6 @@
 133C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gbufferedoutputstream.h133117882010000000 0
 127C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gsettingsschema.h133117882010000000 0
 122C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gbytesicon.h133117882010000000 0
-107C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js133499832694038248 0
-90C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sass\types\legacy\function.d.ts133499838609944683 0
-102C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\css-tree\cjs\syntax\node\MediaQueryList.cjs133499832789850952 0
-124C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gcontenttype.h133117882010000000 0
 90C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\caniuse-lite\data\regions\GF.js133499832958038766 0
 122C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gconverter.h133117882010000000 0
 89C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\core\src\serializer.js133499832842280047 0
@@ -2791,6 +2787,9 @@
 125C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftotval.h133117882010000000 0
 91C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\css-tree\lib\generator\create.js133499832843344805 0
 125C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftoutln.h133117882010000000 0
+85C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\nullthrows\nullthrows.d.ts133499832615149942 0
+126C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftrender.h133117882010000000 0
+94C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\htmlnano\lib\modules\minifyJson.mjs133499832802228994 0
 90C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\caniuse-lite\data\regions\GY.js133499832959334975 0
 135C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional133499832987849388 0
 126C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftstroke.h133117882010000000 0
@@ -3562,7 +3561,7 @@
 114C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.sln133499832861526764 0
 90C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\caniuse-lite\data\regions\NO.js133499832974968965 0
 94C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\css-tree\cjs\syntax\node\Atrule.cjs133499832633058873 0
-66C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\scripts\main.js133499923855104610 0
+66C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\scripts\main.js133499943441899649 0
 117C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\COPYRIGHT133499832615149942 0
 115C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\LICENSE133499832653434595 0
 114C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\lmdb.h133499832836233867 0
@@ -4729,7 +4728,7 @@
 78C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\color-name\index.js133499832598355389 0
 86C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\css-tree\lib\lexer\match.js133499832891336715 0
 90C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\css-tree\lib\generator\index.js133499832884876628 0
-58C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\scripts133499923855224597 1
+58C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\scripts133499943441999919 1
 94C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\css-tree\lib\generator\sourceMap.js133499832894737790 0
 101C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\css-tree\lib\definition-syntax\generate.js133499832879653621 0
 104C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\css-tree\lib\definition-syntax\SyntaxError.js133499832895137247 0
@@ -5036,7 +5035,7 @@
 117C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@swc\helpers\_\_class_apply_descriptor_update\package.json133499832882142422 0
 87C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\commander\typings\index.d.ts133499832655018299 0
 84C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\chokidar\types\index.d.ts133499838608115462 0
-66C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\styles\main.css133499930464419372 0
+66C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\styles\main.css133499943441899649 0
 110C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\rust\parcel-node-bindings.darwin-arm64.node133499832893998239 0
 79C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\color-string\LICENSE133499843142566770 0
 88C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@swc\helpers\cjs\_dispose.cjs133499832728448161 0
@@ -5118,7 +5117,7 @@
 91C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\fs\src\NodeFS.browser.js133499832653354253 0
 84C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\caniuse-lite\data\regions133499832987048928 1
 90C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\caniuse-lite\data\regions\AE.js133499832649311893 0
-68C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\index.f75de5e1.js133499923855184721 0
+68C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\index.f75de5e1.js133499943441899649 0
 90C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\caniuse-lite\data\regions\AI.js133499832669436885 0
 90C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\caniuse-lite\data\regions\AL.js133499832671050194 0
 122C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\general.d.ts133499832708065567 0
@@ -5802,7 +5801,7 @@
 101C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@swc\helpers\_\_class_apply_descriptor_get133499832880551424 1
 101C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@swc\helpers\_\_class_apply_descriptor_set133499832881736920 1
 104C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@swc\helpers\_\_class_apply_descriptor_update133499832882142422 1
-57C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\styles133499930464522755 1
+57C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\styles133499943441979671 1
 84C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@swc\helpers\src\_jsx.mjs133499832913934327 0
 91C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@swc\helpers\_\_class_call_check133499832882534187 1
 108C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@swc\helpers\_\_class_check_private_static_access133499832883238957 1
@@ -7090,7 +7089,7 @@
 93C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\core\lib\RequestTracker.js133499832841837928 0
 93C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\core\lib\resolveOptions.js133499832842137971 0
 89C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\core\lib\serializer.js133499832842234910 0
-68C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\ex.22.59712999.js133499923855129603 0
+68C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\ex.22.59712999.js133499943441899649 0
 111C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@babel\code-frame\node_modules\color-convert\LICENSE133499832633010155 0
 93C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\core\lib\serializerCore.js133499832842667325 0
 95C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\@parcel\core\lib\summarizeRequest.js133499832843048769 0
@@ -7214,10 +7213,10 @@
 68C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\.bin\svgo133499832987849388 0
 72C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\.bin\svgo.cmd133499832987849388 0
 90C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\node_modules\.bin\update-browserslist-db.cmd133499832987849388 0
-73C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\balloons.ba109f47.jpeg133499923855004561 0
-69C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\bolo.26eed6fc.jpeg133499920457421666 0
+73C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\balloons.ba109f47.jpeg133499943441864674 0
+69C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\bolo.26eed6fc.jpeg133499943441864674 0
 70C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\bolo4.2a832f32.jpeg133499907280263668 0
-81C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\bolo_aniversário.d2b99065.jpeg133499923854994588 0
-72C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\ex.22.59712999.js.map133499923855247164 0
-61C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\index.html133499923855306682 0
-70C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\scripts\main.js.map133499923855194676 0
+81C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\bolo_aniversário.d2b99065.jpeg133499934819300097 0
+72C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\ex.22.59712999.js.map133499943441959726 0
+61C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\index.html133499943441864674 0
+70C:\Users\kethy\OneDrive\Documentos\EBAC\ex.22\dist\scripts\main.js.map133499943441969695 0
