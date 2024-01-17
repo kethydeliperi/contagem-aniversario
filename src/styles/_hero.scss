@@ -1,0 +1,39 @@
+@use 'variables';
+
+.hero {
+    padding-top: 64px;
+    padding-bottom: 100px;
+    background-image: url(../images/balloons.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+    .container {
+        position: relative;
+    }
+
+    &::before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: variables.$textColor;
+        content: '';
+        opacity: 0.5;
+    }
+
+    &__text {
+        margin-top: 64px;
+        margin-bottom: 64px;
+        font-size: 52px;
+        line-height: 56px;
+        font-weight: 800;
+        text-align: center;
+        font-family: 'Moirai One', system-ui;
+    }
+    
+    &__accountant {
+        font-family: 'Rubik Maps', system-ui;
+    }
+}

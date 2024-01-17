@@ -1,0 +1,18 @@
+@use 'hero';
+@use 'event';
+@use 'variables';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: variables.$textColor;
+    list-style: none;
+}
+
+.container {
+    max-width: 960px;
+    width: 100%;
+    max-height: 1024px;
+    margin: 0 auto;
+}
